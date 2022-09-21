@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 ## What Pushed On GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijbt&langs_count=12&hide=html&layout=compact)](https://github.com/arijbt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijbt&langs_count=12&hide=html&layout=compact&theme=blue-green)](https://github.com/arijbt)
 
 <a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=77&id=1607729109" border="0" alt="semenaxcaps.com"></a><br>
 
