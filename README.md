@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 [![Arij's github stats](https://github-readme-stats.vercel.app/api?username=arijbt&show_icons=true&theme=blue-green)](https://github.com/arijbt)
 
 
+## What Pushed On GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijbt&langs_count=12&hide=html&layout=compact&theme=blue-green)](https://github.com/arijbt)
+
 ### What I'm using
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
@@ -86,8 +89,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/erijbentej/" title="Likedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://github.com/arijbt" title="Github"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee" alt="github"></a>
 
-## What Pushed On GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijbt&langs_count=12&hide=html&layout=compact&theme=blue-green)](https://github.com/arijbt)
 
 <a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=77&id=1607729109" border="0" alt="semenaxcaps.com"></a><br>
 
