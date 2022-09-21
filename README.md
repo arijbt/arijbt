@@ -90,8 +90,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/arijbt" title="Github"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee" alt="github"></a>
 
 
-<a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=77&id=1607729109" border="0" alt="semenaxcaps.com"></a><br>
-
 ![](https://komarev.com/ghpvc/?username=arijbt&color=brightgreen&style=plastic&label=Views)
 
 
